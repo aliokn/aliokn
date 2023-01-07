@@ -28,6 +28,7 @@ If you still want to learn more about me just go below 👇👇
 <br>
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,redis)](https://skillicons.dev) <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/6764390?s=200&amp;v=4" alt="@elastic" width="45" height="45">
+<img src="https://camo.githubusercontent.com/ea970bffbd4e6dd140e3a6a6fe54b970afbb23e2f4aef0365f09235627d3c0c4/68747470733a2f2f647a6f6e652e636f6d2f73746f726167652f74656d702f31323431383839362d6170616368652d6b61666b612e706e67" alt="Apache Kafka" data-canonical-src="https://dzone.com/storage/temp/12418896-apache-kafka.png" width="45" height="45">
 
 ### My Medium Articles 📰
 <a href="https://fonradar.medium.com/ali-okan-kara-a3d0b61610d">Handling Microservices with gRPC and REST API</a>
