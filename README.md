@@ -1,5 +1,5 @@
 ### Welcome fellow traveller 🔮
-It seems some links has guided you through my profile.:mage:
+It seems some links has guided you through my profile. :mage:
 <br>
 <br>
 My name is Ali and I'm a backend developer. I always try to follow clean code approachs and SOLID principles, because machines can read every kind of code but humans can't. I'm always eager to learn new approachs and technologies in the industry.
